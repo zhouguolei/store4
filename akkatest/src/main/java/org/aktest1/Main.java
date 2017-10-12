@@ -15,7 +15,7 @@ public class Main {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        system.stop(a);
+       
     }
 
 
